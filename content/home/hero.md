@@ -9,14 +9,14 @@ design:
     gradient_start: '#4bb4e3'
     gradient_end: '#2b94c3'
     text_color_light: true
-#cta:
-#  url: docs/
-#  label: Get Started
+cta:
+  url: ttps://github.com/hkunlp/unifiedskg
+  label: Get Started
 #  icon_pack: fas
 #  icon: download
 cta_alt:
   url: docs/
-  label: View Documentation
+  label: View UnifiedSKG framework
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
