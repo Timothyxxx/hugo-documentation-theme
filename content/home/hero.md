@@ -14,9 +14,9 @@ cta:
   label: Get Started
 #  icon_pack: fas
 #  icon: download
-cta_alt:
-  url: docs/
-  label: View UnifiedSKG framework
+#cta_alt:
+#  url: docs/
+#  label: View UnifiedSKG framework
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
