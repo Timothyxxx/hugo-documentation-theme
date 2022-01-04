@@ -24,6 +24,6 @@ cta_note:
     </span>
 ---
 
-Write something interesting about UnifiedSKG here.
+This website contains collections of interesting sources, datasets and methods of SKG(may not exhausted), with the UnifiedSKG framework, hopefully we can promote community-wide progress together.
 
 <a class="github-button" href="https://github.com/hkunlp/unifiedskg" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Code of UnifiedSKG framework">Star the Code of UnifiedSKG framework</a><br><a class="github-button" href="https://github.com/timothyxxx/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Resource Collections of SKG direction">Star the Resource Collections of SKG direction</a><script async defer src="https://buttons.github.io/buttons.js"></script>
