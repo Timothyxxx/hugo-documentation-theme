@@ -13,12 +13,16 @@ weight: 0.5
 
 - add publications
 - add pictures
+
+![pic](uploads/hku.png)
+
 - add tables `done`
+
 |   |   |   |   | 5 |
 |---|---|---|---|---|
 |   |   | 2 |   |   |
 |   | 3 |   |   | 4 |
 |   |   | 6 |   |   |
-- add citations
 
+- add citations
 
