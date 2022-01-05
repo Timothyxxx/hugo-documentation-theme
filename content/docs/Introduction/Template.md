@@ -14,9 +14,9 @@ weight: 0.5
 - add publications
 - add pictures
 
-![pic](hku.png)
-![pic](uploads/hku.png)
-![pic](static/uploads/hku.png)
+[pic](hku.png)
+[pic](uploads/hku.png)
+[pic](static/uploads/hku.png)
 
 - add tables `done`
 
