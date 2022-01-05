@@ -11,6 +11,18 @@ weight: 1
 
 ## Structured Knowledge Input
 
+# TODO
+
+- add publications
+- add pictures
+- add tables `done`
+|   |   |   |   | 5 |
+|---|---|---|---|---|
+|   |   | 2 |   |   |
+|   | 3 |   |   | 4 |
+|   |   | 6 |   |   |
+- add citations
+
 
 ## Papers
 
